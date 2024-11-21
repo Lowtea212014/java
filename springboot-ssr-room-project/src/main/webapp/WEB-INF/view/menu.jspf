@@ -1,0 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<div style="background-color: #dddddd">
+	
+	<a href="/workers" class="button-secondary pure-button" style="padding: 5px">worker 列表</a>
+</div>
